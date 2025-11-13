@@ -1,10 +1,4 @@
-# Report on Stream Learning Experiments using
-
-# River and CapyMOA
-
-### Osiris Yetna - Matthieu Kaeppelin
-
-### 25/10/
+# Report on Stream Learning Experiments using River and CapyMOA
 
 ## 1 Introduction
 

@@ -1,6 +1,6 @@
-# Report on Stream Learning Experiments using River and CapyMOA
+# Data Stream Learning Experiments: Exploration of River and CapyMOA
 
-## 1 Introduction
+## Introduction
 
 This experiment aims to compare the performance of several online learning algorithms
 implemented in two major stream learning frameworks: River (Python) and CapyMOA
